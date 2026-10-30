@@ -1,0 +1,7 @@
+{
+  "name": "CHSB-1 Matematika: 10-sinf Test Trenajyori va AI Generator",
+  "description": "10-sinf matematika CHSB-1 bo'yicha 200 ta test bazasi, real taymerli mashq zali, xatolar tahlili, moslashtirilgan takrorlash rejasi va AI savol generatori.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
